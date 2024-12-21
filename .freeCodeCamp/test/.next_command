@@ -8,3 +8,6 @@ echo '28 | Mountain'
 __vsc_prompt_cmd_original
 echo '28 | Mountain'
 ./bike-shop.sh
+A=2
+echo ahoj $A
+echo "ahoj $A"
