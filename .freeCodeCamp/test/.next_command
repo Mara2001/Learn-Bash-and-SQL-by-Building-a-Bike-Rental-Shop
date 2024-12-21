@@ -11,3 +11,4 @@ echo '28 | Mountain'
 A=2
 echo ahoj $A
 echo "ahoj $A"
+./bike-shop.sh
