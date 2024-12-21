@@ -12,3 +12,4 @@ A=2
 echo ahoj $A
 echo "ahoj $A"
 ./bike-shop.sh
+echo ' M e '
